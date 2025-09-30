@@ -2,7 +2,7 @@ import React from 'react';
 import reactLogo from './assets/react.svg'; 
 
 function MessageWithImage() {
-  const auteur = "Neb";
+  const auteur = "Sahar ";
   
   return (
     <div style={{ padding: '10px', border: '2px solid green', margin: '15px', borderRadius: '5px' }}>

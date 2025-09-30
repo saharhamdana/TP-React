@@ -2,6 +2,7 @@ import './App.css'
 
 import Message from './Message.jsx';
 import MessageWithImage from './MessageWithImage.jsx';
+import MiniCalculator from './MiniCalculator.jsx';
 
 function App() {
   const nom = "sahar";
@@ -24,6 +25,8 @@ function App() {
         <Message />
         
         <MessageWithImage />
+
+        <MiniCalculator />
         
       </div>
     </>
